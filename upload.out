@@ -1,0 +1,15 @@
+nohup: ignoring input
+OK   .github/workflows/build.yml
+OK   .gitignore
+OK   app/build.gradle
+OK   app/src/main/AndroidManifest.xml
+OK   app/src/main/assets/pet.html
+OK   app/src/main/java/com/deskpet/yiyi/MainActivity.kt
+OK   app/src/main/java/com/deskpet/yiyi/service/OverlayService.kt
+OK   app/src/main/res/drawable/ic_launcher_foreground.xml
+OK   app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+OK   app/src/main/res/values/colors.xml
+OK   app/src/main/res/values/themes.xml
+OK   build.gradle
+OK   gradle.properties
+OK   settings.gradle
